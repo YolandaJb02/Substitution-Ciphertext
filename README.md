@@ -1,2 +1,2 @@
 # Substitution Ciphertext
-This is a simple encryption adn decryption project using substituition cipher.
+This is a simple substitution cipher encryption and decryption project.
